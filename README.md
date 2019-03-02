@@ -1,1 +1,1 @@
-# CSC391Project2
+# Project #2: Local Feature Extraction, Detection and Matching
